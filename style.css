@@ -55,6 +55,23 @@ button {
 
   outline: none;
 }
+#info {
+  border: none;
+  background: none;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  height: 100%;
+  font-weight: 700;
+  color: rgb(136, 158, 177);
+  letter-spacing: 1px;
+  font-size: inherit;
+
+  outline: none;
+}
+#info:hover {
+  color: white;
+  background: rgb(79, 97, 112);
+}
 
 button:hover {
   color: white;
